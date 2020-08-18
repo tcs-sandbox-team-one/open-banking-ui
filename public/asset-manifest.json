@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4efd8879.chunk.css",
+    "main.js": "/static/js/main.5b511b9f.chunk.js",
+    "main.js.map": "/static/js/main.5b511b9f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a0c186b0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a0c186b0.js.map",
+    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
+    "static/js/2.4f09b0c4.chunk.js": "/static/js/2.4f09b0c4.chunk.js",
+    "static/js/2.4f09b0c4.chunk.js.map": "/static/js/2.4f09b0c4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.039bbe63c0f547fe751ea1585095e902.js": "/precache-manifest.039bbe63c0f547fe751ea1585095e902.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
+    "static/css/main.4efd8879.chunk.css.map": "/static/css/main.4efd8879.chunk.css.map",
+    "static/js/2.4f09b0c4.chunk.js.LICENSE.txt": "/static/js/2.4f09b0c4.chunk.js.LICENSE.txt",
+    "static/media/custom.css": "/static/media/validate-your-credit-card-icon.088de21c.svg",
+    "static/media/login-graphic.svg": "/static/media/login-graphic.1bf4cd42.svg",
+    "static/media/open-your-account-graphic.svg": "/static/media/open-your-account-graphic.3ad10247.svg",
+    "static/media/process-orment-account-graphic.svg": "/static/media/process-orment-account-graphic.a613cbf2.svg",
+    "static/media/request-chequebook-graphic.svg": "/static/media/request-chequebook-graphic.692a584a.svg",
+    "static/media/user-picture.svg": "/static/media/user-picture.a09e6389.svg",
+    "static/media/validate-your-credit-card-graphic.svg": "/static/media/validate-your-credit-card-graphic.71dde7ce.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0c186b0.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.4f09b0c4.chunk.js",
+    "static/css/main.4efd8879.chunk.css",
+    "static/js/main.5b511b9f.chunk.js"
+  ]
+}
